@@ -1,0 +1,3 @@
+- [x] Remove Stores import from app/page.tsx
+- [x] Remove <Stores /> component from app/page.tsx layout
+- [x] Delete components/stores.tsx file
