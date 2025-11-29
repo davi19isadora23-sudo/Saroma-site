@@ -115,7 +115,6 @@ export default function RegisterPage() {
               theme: 'outline',
               size: 'large',
               text: 'signup_with',
-              width: '100%',
             })
             console.log('✅ Botão do Google renderizado com sucesso')
           } catch (error: any) {

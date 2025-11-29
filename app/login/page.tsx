@@ -111,7 +111,6 @@ export default function LoginPage() {
               theme: 'outline',
               size: 'large',
               text: 'signin_with',
-              width: '100%',
             })
             console.log('✅ Botão do Google renderizado com sucesso')
           } catch (error: any) {
